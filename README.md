@@ -1,16 +1,46 @@
-## Hi there 👋
+👋 Hi, I'm Mohamad Ashif
+🚀 About Me
 
-<!--
-**mohamadashif/mohamadashif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student / Developer
 
-Here are some ideas to get you started:
+💻 Learning: Java, JavaScript, Node.js, MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently working on web development projects
+
+🎯 Goal: Become a Full Stack Developer
+
+🛠️ Skills
+
+Programming: Java, JavaScript
+
+Web: HTML, CSS, Node.js
+
+Database: MySQL
+
+Tools: Git, VS Code
+
+📂 Projects
+
+Here are some of my projects:
+
+🔹 Student Management System (Java + MySQL)
+
+🔹 Form Website (Node.js + HTML + CSS + JS)
+
+🔹 Basic Java Programs
+
+📊 GitHub Stats
+
+🔥 Active learner and building projects daily
+
+📈 Improving coding skills step-by-step
+
+📫 Contact Me
+
+Email: mohamadashif956@gmail.com
+
+LinkedIn: [your-linkedin-link](https://www.linkedin.com/in/mohamad-ashif-119925343/)
+
+⭐ About This Profile
+
+This profile is created to share my coding journey, projects, and learning progress in programming and web development.
